@@ -1,4 +1,4 @@
-📘 **Employee Turnover Data Profiling & Cleaning Project**
+# 📘 **Employee Turnover Data Profiling & Cleaning Project**
 
 ### *D599 – Data Preparation & Exploration*
 
